@@ -9,7 +9,7 @@ In this website Students can make to-do List, make reminder on google calendar, 
 <br>
 
 
-- <a href="https://github.com/zaid-stark/RegistrationForm_php">Registration_Form</a>   I made a registration form using PHP. 
+- <a href="https://github.com/zaid-stark/RegistrationForm_php">Registration_Form</a>  <p> I made a registration form using PHP. </p>
 - <a href="https://github.com/rosajen27/base-apparel">Base Apparel</a>
 - <a href="https://github.com/rosajen27/blog-template">Blog Template</a>
 - <a href="https://github.com/rosajen27/budget-tracker">Budget Tracker</a>
