@@ -8,12 +8,12 @@ In this website Students can make to-do List, make reminder on google calendar, 
 <hr>
 
 ###  Nov 2022 - Nov 2022 
-- <a href="https://github.com/zaid-stark/RegistrationForm_php">Registration_Form</a>  <p> I made a registration form using PHP. </p>
+<a href="https://github.com/zaid-stark/RegistrationForm_php">Registration_Form</a>  <p> I made a registration form using PHP. </p>
 <hr>
 
 ###  Oct 2022 - Oct 2022  
-- <a href="https://zaid-stark.github.io/Sign_Up-Page/">Sign_Up_Page </a> <p> This is my Sign_up page. Which i made during my internship. </p>
+<a href="https://zaid-stark.github.io/Sign_Up-Page/">Sign_Up_Page </a> <p> This is my Sign_up page. Which i made during my internship. </p>
 <hr>
 
 ###  Sep 2022 - Sep 2022  
-- <a href="https://zaid-stark.github.io/First_Project/">Meet new and interesting dogs nearby (Web Page)</a> <p>I used BOOTSTRAP and CSS to make this website</p>
+<a href="https://zaid-stark.github.io/First_Project/">Meet new and interesting dogs nearby (Web Page)</a> <p>I used BOOTSTRAP and CSS to make this website</p>
