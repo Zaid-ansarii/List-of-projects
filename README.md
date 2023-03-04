@@ -1,2 +1,2 @@
 # List-of-projects
-Check
+A collection of all my projects on GitHub.
