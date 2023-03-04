@@ -1,5 +1,5 @@
 # List-of-projects
-<p> <u> A collection of all my projects on GitHub.</u> </p>
+ A collection of all my projects on GitHub.
 
 ### Dec2022-Jan 2023
 <a href="https://zaid-stark.github.io/Student_app/">Student_App</a>  <p>This is our college minor project. We made this project using HTML, CSS, BOOTSTRAP, JS & PHP.
